@@ -1,0 +1,4 @@
+﻿  OlasilikveIstatistik.cpp
+C:\Users\OMERFARUKCEYLAN\source\repos\OlasilikveIstatistik\OlasilikveIstatistik\OlasilikveIstatistik.cpp(31,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\OMERFARUKCEYLAN\source\repos\OlasilikveIstatistik\OlasilikveIstatistik\OlasilikveIstatistik.cpp(13,36): warning C4101: 'temp': yerel değişken başvurusu kaldırıldı
+  OlasilikveIstatistik.vcxproj -> C:\Users\OMERFARUKCEYLAN\source\repos\OlasilikveIstatistik\x64\Debug\OlasilikveIstatistik.exe
